@@ -8,7 +8,19 @@ MathQuill is a web formula editor designed to make typing math easy and beautifu
 
 The MathQuill project is supported by its [partners](http://mathquill.com/partners.html). We hold ourselves to a compassionate [Code of Conduct](http://docs.mathquill.com/en/latest/Code_of_Conduct/).
 
-MathQuill is resuming active development and we're committed to getting things running smoothly. Find a dusty corner? [Let us know in Slack.](http://slackin.mathquill.com) (Prefer IRC? We're `#mathquill` on Freenode.)
+MathQuill is resuming active development and we're committed to getting things running smoothly. Find a dusty corner? [Let us know in Slack.](http://slackin.mathquill.com) (Prefer IRC? We're `#mathquill` on Freenode.)h
+
+## Installation and Build mathquill.js 
+The installation requires NodeJS to be installed on your system.
+
+### Fetching the Open Source Code 
+To fetch the source of `mathquill` call `git clone https://github.com/mathquill/mathquill.git`
+
+### Install dependencies
+As usual run `npm install` in the `mathquill` folder
+
+### Run Make
+If you run the `make` command in the `mathquill` folder, also the dependencies will be installed. 
 
 ## Getting Started
 
