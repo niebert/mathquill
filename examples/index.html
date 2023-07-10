@@ -17,6 +17,7 @@
   </head>
   <body style="background:#C0C0C0">
     <h3>MathQuill: <span id4marker="version">0.10.1</span></h3>
+    Click on mathematical expression and type LaTex expression like <kbd>\int_a^b f(x)</kbd>
     <table>
       <tbody>
         <tr>
@@ -26,6 +27,7 @@
           <td>
             <div id="id4mathquill">\sum_{k=0}^n k^2</div>
             <input type="button" id="bOK" value="OK" onclick="document.getElementById('latexout').value=mathField.latex()">
+            <input type="button" id="bClear" value="Clear" onclick="mathField.latex(" ")">
           </td>
         </tr>
         <tr>
