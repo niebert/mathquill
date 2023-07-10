@@ -8,7 +8,7 @@ George Douros
 George Douros
 
 ### Licence
-License: Unicode Fonts for Ancient Scripts: License Agreement. FREE for PERSONAL use; George Douros 
+[License:](https://localfonts.eu/freefonts/greek-free-fonts/unicode-fonts-for-ancient-scripts/symbola/) Unicode Fonts for Ancient Scripts: License Agreement. FREE for PERSONAL use; George Douros 
 
 Copyright 2020 by George Douros, UNICODE FONTS FOR ANCIENT SCRIPTS (UFAS). All rights reserved.
 
