@@ -5,6 +5,7 @@ by [Han](http://github.com/laughinghan), [Jeanine](http://github.com/jneen), and
 MathQuill is a web formula editor designed to make typing math easy and beautiful.
 
 <h3><a href="https://niebert.github.io/mathquill/index.html" target="_blank">MathQuill GitHub Demo</a></h3>
+The MathQuill demo is an [AppLSAC](https://en.wikiversity.org/wiki/AppLSAC) self-contained in the subdirectory `examples/` in this repository. 
 
 * example uses `jquery-3.6.0.js` - required for MathQuill is jquery 1.5.2++
 * `css/mathquill.css` generated MathQuill stylesheet  
