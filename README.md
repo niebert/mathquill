@@ -8,7 +8,7 @@ MathQuill is a web formula editor designed to make typing math easy and beautifu
 
 * example uses `jquery-3.6.0.js` - required for MathQuill is jquery 1.5.2++
 * `css/mathquill.css` generated MathQuill stylesheet  
-* Symbola fonts in `examplescss/fonts` by George Douros 
+* [Symbola fonts](https://localfonts.eu/freefonts/greek-free-fonts/unicode-fonts-for-ancient-scripts/symbola/) in `examplescss/fonts` by George Douros 
 
 [<img alt="homepage demo" src="https://cloud.githubusercontent.com/assets/225809/15163580/1bc048c4-16be-11e6-98a6-de467d00cff1.gif" width="260">](http://mathquill.com)
 
