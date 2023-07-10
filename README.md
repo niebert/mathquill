@@ -4,7 +4,7 @@ by [Han](http://github.com/laughinghan), [Jeanine](http://github.com/jneen), and
 
 MathQuill is a web formula editor designed to make typing math easy and beautiful.
 
-<h3><a href="https://niebert.github.io/mathquill/index.html" target="_blank">Demo https://niebert.github.io/mathquill/index.html </a></h3>
+<h3><a href="https://niebert.github.io/mathquill/index.html" target="_blank">MathQuill Demo</a>
 
 [<img alt="homepage demo" src="https://cloud.githubusercontent.com/assets/225809/15163580/1bc048c4-16be-11e6-98a6-de467d00cff1.gif" width="260">](http://mathquill.com)
 
